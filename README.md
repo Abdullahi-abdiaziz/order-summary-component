@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://abdullahi-abdiazi/order-summary-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View URL here](https://github.com/Abdullahi-abdiaziz/order-summary-component)
+- Live Site URL: [View live site URL here](https://order-summary-component-c8.netlify.app/)
 
 ## My process
 
